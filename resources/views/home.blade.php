@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+
 <section>
     <h3>Flight Booking</h3>
     @if (@Session::get('messages'))

@@ -78,5 +78,6 @@
         <!--scripts-->
         <script type="text/javascript" src="{{ asset('public/assets/jquery-3.2.1.min.js') }}"></script>
         <script type="text/javascript" src="{{ asset('public/assets/bootstrap/js/bootstrap.min.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('public/js/app.js') }}"></script>
     </body>
 </html>
